@@ -2,11 +2,10 @@
     margin: 0 auto;
     padding: 0 auto;
 
-}
-.personal{
-    width: 200px;
+  
 }
 main{
+    max-width: 100%;
     width: 800px;
     margin: 0 auto;
     background: #e65c00;
@@ -37,4 +36,14 @@ li a {
 
 li a:hover {
     background-color: #111;
+}
+
+p {
+    padding: 35px;
+    padding-left: 0px;
+}
+.personal{
+    width: 200px;
+    display: none;
+
 }
