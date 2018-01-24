@@ -47,3 +47,12 @@ p {
     display: none;
 
 }
+@media screen and (max-width: 640px) {
+
+    #groepsfoto{
+        max-width: 200px;
+
+
+        
+    }
+}
